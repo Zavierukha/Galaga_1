@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Galaga.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\GalagaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\Galaga.cpp.obj"
+"C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\GalagaGameMode.cpp.obj"
+"C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\GalagaPawn.cpp.obj"
+"C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\GalagaProjectile.cpp.obj"
+"C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\Galaga.init.gen.cpp.obj"
+"C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\GalagaGameMode.gen.cpp.obj"
+"C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\GalagaPawn.gen.cpp.obj"
+"C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\GalagaProjectile.gen.cpp.obj"
+"C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\Default.rc2.res"
+/OUT:"C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\UE4Editor-Galaga.lib"

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Galaga.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AB3A030C-F1AD-49DC-84C0-C9FAF0749374}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Galaga.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GalagaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F4AC084D-7B91-4D0C-9894-C8F1002173C8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Galaga">
+      <UniqueIdentifier>{D02F3F5B-27C8-4A22-9591-B20643D991CA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Galaga\Galaga.Build.cs">
+      <Filter>Source\Galaga</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Galaga\Galaga.cpp">
+      <Filter>Source\Galaga</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga\Galaga.h">
+      <Filter>Source\Galaga</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga\GalagaGameMode.cpp">
+      <Filter>Source\Galaga</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga\GalagaGameMode.h">
+      <Filter>Source\Galaga</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga\GalagaPawn.cpp">
+      <Filter>Source\Galaga</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga\GalagaPawn.h">
+      <Filter>Source\Galaga</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga\GalagaProjectile.cpp">
+      <Filter>Source\Galaga</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga\GalagaProjectile.h">
+      <Filter>Source\Galaga</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

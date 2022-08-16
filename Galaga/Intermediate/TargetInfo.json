@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Galaga",
+			"Path": "C:\\Users\\YL\\Documents\\Unreal Projects\\Galaga\\Source\\Galaga.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GalagaEditor",
+			"Path": "C:\\Users\\YL\\Documents\\Unreal Projects\\Galaga\\Source\\GalagaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

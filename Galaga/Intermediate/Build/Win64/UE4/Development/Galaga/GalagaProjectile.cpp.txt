@@ -1,0 +1,7 @@
+C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4\Development\Galaga\Definitions.Galaga.h
+C:\Users\YL\Documents\Unreal Projects\Galaga\Source\Galaga\GalagaProjectile.h
+C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4\Inc\Galaga\GalagaProjectile.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ProjectileMovementComponent.generated.h
