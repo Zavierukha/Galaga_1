@@ -1,5 +1,5 @@
-C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\Definitions.Galaga.h
+D:\Work\Galaga_1\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\Definitions.Galaga.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\YL\Documents\Unreal Projects\Galaga\Source\Galaga/GalagaProjectile.h
-C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Inc\Galaga\GalagaProjectile.generated.h
+D:\Work\Galaga_1\Galaga\Source\Galaga/GalagaProjectile.h
+D:\Work\Galaga_1\Galaga\Intermediate\Build\Win64\UE4Editor\Inc\Galaga\GalagaProjectile.generated.h

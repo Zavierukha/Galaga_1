@@ -1,15 +1,15 @@
-C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\Definitions.Galaga.h
-C:\Users\YL\Documents\Unreal Projects\Galaga\Source\Galaga\GalagaGameMode.h
+D:\Work\Galaga_1\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\Definitions.Galaga.h
+D:\Work\Galaga_1\Galaga\Source\Galaga\GalagaGameMode.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Inc\Galaga\GalagaGameMode.generated.h
-C:\Users\YL\Documents\Unreal Projects\Galaga\Source\Galaga\GalagaPawn.h
+D:\Work\Galaga_1\Galaga\Intermediate\Build\Win64\UE4Editor\Inc\Galaga\GalagaGameMode.generated.h
+D:\Work\Galaga_1\Galaga\Source\Galaga\GalagaPawn.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Users\YL\Documents\Unreal Projects\Galaga\Intermediate\Build\Win64\UE4Editor\Inc\Galaga\GalagaPawn.generated.h
+D:\Work\Galaga_1\Galaga\Intermediate\Build\Win64\UE4Editor\Inc\Galaga\GalagaPawn.generated.h

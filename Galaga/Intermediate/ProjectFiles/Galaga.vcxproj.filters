@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\Galaga.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{AB3A030C-F1AD-49DC-84C0-C9FAF0749374}</UniqueIdentifier>
+      <UniqueIdentifier>{9511B33A-E423-4C8C-8282-04E873C6CEE0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Galaga.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{F4AC084D-7B91-4D0C-9894-C8F1002173C8}</UniqueIdentifier>
+      <UniqueIdentifier>{6E754839-D968-4923-B0B4-7507CB3400A0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Galaga">
-      <UniqueIdentifier>{D02F3F5B-27C8-4A22-9591-B20643D991CA}</UniqueIdentifier>
+      <UniqueIdentifier>{51A19C38-603C-4E93-96BF-855F28A25DEF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Galaga\Galaga.Build.cs">
       <Filter>Source\Galaga</Filter>
