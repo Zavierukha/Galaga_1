@@ -150,3 +150,6 @@ Galaga/Intermediate/Build/Win64/GalagaEditor/Development/Engine/SharedPCH.Engine
 Galaga/Intermediate/Build/Win64/GalagaEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.cpp.old
 Galaga/Intermediate/Build/Win64/GalagaEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.cpp
 Galaga/Intermediate/Build/BuildRules/GalagaModuleRulesManifest.json
+*.ini
+*.ini
+Galaga/Saved/Config/Windows/EditorPerProjectUserSettings.ini
