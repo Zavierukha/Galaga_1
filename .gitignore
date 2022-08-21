@@ -153,3 +153,40 @@ Galaga/Intermediate/Build/BuildRules/GalagaModuleRulesManifest.json
 *.ini
 *.ini
 Galaga/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+*.ini
+Galaga/Saved/Autosaves/PackageRestoreData.json
+Galaga/Saved/AutoScreenshot.png
+Galaga/Saved/Config/Windows/Editor.ini
+Galaga/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Galaga/Saved/Config/Windows/Engine.ini
+Galaga/Saved/webcache/Cache/data_0
+Galaga/Saved/webcache/Cache/data_1
+Galaga/Saved/webcache/Cache/data_2
+Galaga/Saved/webcache/Cache/data_3
+Galaga/Saved/webcache/Cache/f_000001
+Galaga/Saved/webcache/Cache/f_000002
+Galaga/Saved/webcache/Cache/f_000003
+Galaga/Saved/webcache/Cache/f_000004
+Galaga/Saved/webcache/Cache/f_000005
+Galaga/Saved/webcache/Cache/f_000006
+Galaga/Saved/webcache/Cache/f_000007
+Galaga/Saved/webcache/Cache/f_000008
+Galaga/Saved/webcache/Cache/f_000009
+Galaga/Saved/webcache/Cache/f_00000a
+Galaga/Saved/webcache/Cache/f_00000b
+Galaga/Saved/webcache/Cache/f_00000c
+Galaga/Saved/webcache/Cache/f_00000d
+Galaga/Saved/webcache/Cache/f_00000e
+Galaga/Saved/webcache/Cache/f_00000f
+Galaga/Saved/webcache/Cache/f_000010
+Galaga/Saved/webcache/Cache/index
+Galaga/Saved/webcache/Cookies
+Galaga/Saved/webcache/Cookies-journal
+Galaga/Saved/webcache/GPUCache/data_0
+Galaga/Saved/webcache/GPUCache/data_1
+Galaga/Saved/webcache/GPUCache/data_2
+Galaga/Saved/webcache/GPUCache/data_3
+Galaga/Saved/webcache/GPUCache/index
+Galaga/Saved/webcache/Local Storage/https_sketchfab.com_0.localstorage
+Galaga/Saved/webcache/Local Storage/https_sketchfab.com_0.localstorage-journal
+Galaga/Saved/webcache/Visited Links
