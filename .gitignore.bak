@@ -190,3 +190,14 @@ Galaga/Saved/webcache/GPUCache/index
 Galaga/Saved/webcache/Local Storage/https_sketchfab.com_0.localstorage
 Galaga/Saved/webcache/Local Storage/https_sketchfab.com_0.localstorage-journal
 Galaga/Saved/webcache/Visited Links
+Galaga/Saved/*
+Galaga/Intermediate/*
+Galaga/Build/*
+Galaga/Saved/Config/Windows/Engine.ini
+Galaga/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+*.ini
+*.ini
+*.ini
+Galaga/Saved/Config/Windows/Engine.ini
+Galaga/Saved/Config/Windows/Editor.ini
+Galaga/Saved/Config/Windows/EditorPerProjectUserSettings.ini
