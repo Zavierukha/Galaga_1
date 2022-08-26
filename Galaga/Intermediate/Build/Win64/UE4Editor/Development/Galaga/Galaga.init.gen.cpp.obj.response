@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I D:\Work\Galaga_1\Galaga\Intermediate\Build\Win64\UE4Editor\Inc\Galaga
-/I D:\Work\Galaga_1\Galaga\Source
+/I C:\Users\YL\Documents\GitHub\Galaga_1\Galaga\Intermediate\Build\Win64\UE4Editor\Inc\Galaga
+/I C:\Users\YL\Documents\GitHub\Galaga_1\Galaga\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -258,16 +258,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\Work\Galaga_1\Galaga\Intermediate\Build\Win64\GalagaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Work\Galaga_1\Galaga\Intermediate\Build\Win64\GalagaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Work\Galaga_1\Galaga\Intermediate\Build\Win64\GalagaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Work\Galaga_1\Galaga\Intermediate\Build\Win64\UE4Editor\Inc\Galaga\Galaga.init.gen.cpp"
-/FI"D:\Work\Galaga_1\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\Definitions.Galaga.h"
-/Fo"D:\Work\Galaga_1\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\Galaga.init.gen.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
+/FI"C:\Users\YL\Documents\GitHub\Galaga_1\Galaga\Intermediate\Build\Win64\GalagaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\YL\Documents\GitHub\Galaga_1\Galaga\Intermediate\Build\Win64\GalagaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\YL\Documents\GitHub\Galaga_1\Galaga\Intermediate\Build\Win64\GalagaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\YL\Documents\GitHub\Galaga_1\Galaga\Intermediate\Build\Win64\UE4Editor\Inc\Galaga\Galaga.init.gen.cpp"
+/FI"C:\Users\YL\Documents\GitHub\Galaga_1\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\Definitions.Galaga.h"
+/Fo"C:\Users\YL\Documents\GitHub\Galaga_1\Galaga\Intermediate\Build\Win64\UE4Editor\Development\Galaga\Galaga.init.gen.cpp.obj"
 /TP
 /GR-
 /W4
