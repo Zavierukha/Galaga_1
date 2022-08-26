@@ -193,3 +193,6 @@ Galaga/Saved/webcache/Visited Links
 Galaga/Saved/*
 Galaga/Intermediate/*
 Galaga/Build/*
+Galaga/Saved/Config/Windows/Engine.ini
+Galaga/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+*.ini
