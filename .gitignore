@@ -19,6 +19,8 @@
 *.pdb
 Galaga/Intermediate/*
 Galaga/Saved/*
+Galaga_1/Galaga/Intermediate/*
+Galaga_1/Galaga/Saved/*
 
 
 *.vsidx
