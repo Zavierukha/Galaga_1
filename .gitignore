@@ -17,8 +17,8 @@
 *.app
 *.log
 *.pdb
-Intermediate/*
-Saved/*
+Galaga/Intermediate/*
+Galaga/Saved/*
 
 
 *.vsidx
